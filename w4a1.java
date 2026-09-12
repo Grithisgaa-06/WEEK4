@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class w5a1 {
+public class w4a1 {
 
     public static int[] productExceptSelf(int[] nums) {
         int n = nums.length;

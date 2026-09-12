@@ -1,4 +1,4 @@
-public class w5a2{
+public class w4a2{
 
     public static int maxSubArray(int[] nums) {
         int currentSum = nums[0];
